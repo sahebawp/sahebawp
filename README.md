@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA Automation Engineer
 - 🌱 I’m currently learning Pytest & Selenium
 - 💞️ I’m looking to collaborate on Testing Projects
-- 📫 How to reach me at Insta @mandalsaheb
+- 📫 How to reach me - @mandalsaheb on Insta
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i can play CounterStrike ALL day with friends of curse 
 
